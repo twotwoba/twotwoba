@@ -1,11 +1,10 @@
 <div align=center>
 
-### Hi,This is yokiizx.
+### Hi, I'm yokiizx.
 
 ---
 
 Graduated from Xinjiang University
-Worked From 2018
 
 ---
 
