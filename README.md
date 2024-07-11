@@ -13,6 +13,6 @@ Love living ❤️
 
 ![ts](https://img.shields.io/badge/_-TypeScript-3A7EBC?logo=typescript&logoColor=white) ![vue](https://img.shields.io/badge/_-Vue-394759?logo=vuedotjs) ![react](https://img.shields.io/badge/_-React-34373D?logo=react) ![webpack](https://img.shields.io/badge/_-webpack-3C6EA5?logo=webpack)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twotwoba&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twotwoba&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
