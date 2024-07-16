@@ -1,6 +1,6 @@
 <div align=center>
 
-Hi there, I'm EricYun 👏.
+Hi there, I'm EricYuan 👏.
 
 Graduated from Xinjiang University
 
