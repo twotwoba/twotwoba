@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋👋👋👋👋👋 </h1>
 
 ###
 
-<p align="left">My name is EricYuan and I'm a full stack developer, from xinjiang.</p>
+<p align="left">I'm EricYuan, a full stack developer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Golang<br>🎯 Goals: let you guys remember me<br>🎲 Fun fact:</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Golang<br>🎯 Goals: let you guys remember me<br></p>
 
 ###
 
